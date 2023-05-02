@@ -13,3 +13,5 @@
 * Run test.py
 * The results will be saved into the output floder
 
+## 4. Downloads
+The checkpoint and UHD test data are available at: https://pan.baidu.com/s/1LGc7ox7QyLIdEAahmwYtxg  Pass code：mipc 
