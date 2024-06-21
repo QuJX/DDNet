@@ -15,3 +15,4 @@
 
 ## 4. Downloads
 The checkpoint and UHD test data are available at: https://pan.baidu.com/s/1LGc7ox7QyLIdEAahmwYtxg  Pass code：mipc 
+Google Drive: https://drive.google.com/file/d/1X18X50iMKfRrGgrr1PT6tE8_ubqTAnpx/view?usp=drive_link
