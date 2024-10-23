@@ -11,7 +11,9 @@
 ## 3. Test
 * Put the test images into the input floder
 * Run test.py
-* The results will be saved into the output floder
+* The results will be saved into the output floder.
+* For the time testing, the inference time is tested by the test code ending time - test code starting time.
+* To calculate the exact cuda ending time, you should add the 'torch.cuda.synchronize()' before the ending time recorded. (Thanks for the reminder from @CuddleSabe)
 
 ## 4. Downloads
 * The checkpoint and UHD test data are available at: https://pan.baidu.com/s/1LGc7ox7QyLIdEAahmwYtxg  Pass code：mipc 
